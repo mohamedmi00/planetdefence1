@@ -1,1 +1,2 @@
-# planetdefence1
+# Space-Shooter-Game-Using-Javascript
+Space Shooter Game Using Javascript
